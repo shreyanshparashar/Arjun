@@ -1,2 +1,2 @@
 # Arjun
-First Trex Game
+Runner Game
